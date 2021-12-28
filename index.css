@@ -403,4 +403,7 @@ footer p:nth-child(2){
     .skill-main{
         width: 300px;
     }
+   .welcome-page img{
+        width: 300px;
+    }
 } 
