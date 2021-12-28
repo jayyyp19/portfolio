@@ -341,3 +341,66 @@ footer p:nth-child(2){
     bottom: 35px;
     font-size: 14px;
 }
+@media screen and (max-width: 1141px) {
+    /* body{
+        width: 100%;
+    } */
+    nav{
+        display: inline;
+    }
+    .welcome-content{
+        left: 1%;
+    }
+    
+}
+@media screen and (max-width: 927px) {
+    .welcome-page img{
+        right: 25%;
+    }
+    .welcome-content{
+        position: relative;
+        left: 25%;
+        padding: 100px 0px;
+        transform: translateY(0%);
+    }
+    .about{
+        padding: 240px 0px;
+    }
+    .about img{
+        width: 0.01px;
+    }
+    .main{
+        max-width: 70%;
+        padding: 1px 0px;
+    }
+    .about{
+        background-color: black;
+    }
+    .title h2{
+        width: 500px;
+    }
+}
+@media screen and (max-width: 650px) {
+    .welcome-page img{
+        left: 3%;
+    }
+    .welcome-content{
+        position: relative;
+        left: 6%;
+        padding: 100px 0px;
+        transform: translateY(0%);
+    }
+    .main{
+        max-width: 60%;
+        padding: 1px 0px;
+        margin-left: 17px;
+    }
+}
+@media screen and (max-width: 555px) {
+    .button{
+        padding: 5px 10px;
+    }
+    .skill-main{
+        width: 300px;
+    }
+} 
