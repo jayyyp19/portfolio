@@ -52,7 +52,7 @@ nav ul li a:hover{
 .welcome-page img{
     position: absolute;
     right: 15%;
-    transform: translateY(20%);
+    transform: translateY(40%);
     border: 20px  #fefee3 solid ;
     border-radius: 50%;
 
