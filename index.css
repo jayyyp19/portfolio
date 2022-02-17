@@ -21,9 +21,10 @@ nav{
     padding-bottom: 14px;
     padding-left: 8%;
     padding-right: 8%;
+    background-color: #99d98c;
 }
 .logo{
-    color: #99d98c;
+    color: white;
     font-size: 29px;
     letter-spacing: 1px;
     cursor: pointer;
