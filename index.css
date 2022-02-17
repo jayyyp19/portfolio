@@ -394,10 +394,16 @@ footer p:nth-child(1){
         position: relative;
         top:auto;
     }
+    nav{
+        background-color: white;
+    }
     nav ul{
         margin-top: 40px;
         margin-left: 10%;
         display: flex;
+    }
+    .navbar li{
+        background-color: #99d98c;
     }
     .logo{
         margin-left: 75%;
