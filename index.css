@@ -394,6 +394,7 @@ footer p:nth-child(1){
     }
     nav ul{
         margin-top: 40px;
+        margin-left: 10%;
         display: flex;
     }
     .logo{
