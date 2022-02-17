@@ -14,12 +14,14 @@ body{
     margin: auto;
 }
 nav{
-    display: flex;
+   display: flex;
     align-items: center;
     justify-content: space-between;
-    padding-top: 10px;
+    padding-top: 14px;
+    padding-bottom: 14px;
     padding-left: 8%;
     padding-right: 8%;
+    background-color: #99d98c;
 }
 .logo{
     color: #99d98c;
